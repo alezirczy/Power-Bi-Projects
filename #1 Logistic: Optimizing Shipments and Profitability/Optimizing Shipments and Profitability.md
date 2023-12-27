@@ -78,6 +78,9 @@ SUMX(Sales,IF(Sales[Quantity]=1,Sales[Shipping Cost],Sales[Shipping Cost]
 
 ````
 ***
+[**Download .pbix File**](https://github.com/alezirczy/Power-Bi-Projects/blob/main/%231%20Logistic%3A%20Optimizing%20Shipments%20and%20Profitability/Logistics%20Operation%20-%20Optimizing%20Shipments%20and%20Profitability%20v2.pbix)
+
+***
 
 
 <h2 align="center">Report (1st Page)</h2>
@@ -94,6 +97,3 @@ SUMX(Sales,IF(Sales[Quantity]=1,Sales[Shipping Cost],Sales[Shipping Cost]
 <h2 align="center">Report (3rd Page)</h2>
 <img src="https://github.com/alezirczy/Images/blob/main/%231%20Optimizing%20Shipments%20and%20Profitability/Market%20Basket%20-%20Report%20(3rd%20Page).png">
 
-***
-
-[<h2 align="center">Download .pbix File</h2>](https://github.com/alezirczy/Power-Bi-Projects/blob/main/%231%20Logistic%3A%20Optimizing%20Shipments%20and%20Profitability/Logistics%20Operation%20-%20Optimizing%20Shipments%20and%20Profitability%20v2.pbix)
