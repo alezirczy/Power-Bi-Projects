@@ -78,6 +78,10 @@ SUMX(Sales,IF(Sales[Quantity]=1,Sales[Shipping Cost],Sales[Shipping Cost]
 
 ````
 
-## Executive Summary - Report (1st Page)
+
+
+##  <center> Executive Summary - Report (1st Page) </center>
+<img src="https://github.com/alezirczy/Images/blob/main/%231%20Optimizing%20Shipments%20and%20Profitability/Executive%20Summary%20-%20Report%20(1st%20Page).png">
+
 ## Shipping Metrics - Report (2nd Page)
 ## Market Basket - Report (3rd Page)
