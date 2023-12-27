@@ -77,11 +77,20 @@ SUMX(Sales,IF(Sales[Quantity]=1,Sales[Shipping Cost],Sales[Shipping Cost]
              +(((Sales[Quantity])-1)*(Sales[Shipping Cost]*0.7))))
 
 ````
+***
 
 
+<h2 align="center">Report (1st Page)</h2>
 
-##  <center> Executive Summary - Report (1st Page) </center>
+
 <img src="https://github.com/alezirczy/Images/blob/main/%231%20Optimizing%20Shipments%20and%20Profitability/Executive%20Summary%20-%20Report%20(1st%20Page).png">
 
-## Shipping Metrics - Report (2nd Page)
-## Market Basket - Report (3rd Page)
+***
+<h2 align="center">Report (2nd Page)</h2>
+<img src="https://github.com/alezirczy/Images/blob/main/%231%20Optimizing%20Shipments%20and%20Profitability/Shipping%20Metrics%20-%20Report%20(2nd%20Page).png">
+
+
+***
+<h2 align="center">Report (3rd Page)</h2>
+<img src="https://github.com/alezirczy/Images/blob/main/%231%20Optimizing%20Shipments%20and%20Profitability/Market%20Basket%20-%20Report%20(3rd%20Page).png">
+
